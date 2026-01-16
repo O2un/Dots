@@ -27,7 +27,7 @@
 ### Installation
 1.  이 저장소를 Clone 합니다.
     ```bash
-    git clone [https://github.com/your-repo/project-name.git](https://github.com/O2un/Dots.git)
+    git clone https://github.com/O2un/Dots.git
     ```
 2.  Unity 프로젝트를 열고, 패키지 매니저를 통해 필요한 의존성(Entities, Burst 등)이 설치되었는지 확인합니다.
 
